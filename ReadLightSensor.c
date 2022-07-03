@@ -2,7 +2,7 @@
  \file		ReadLightSensor.c
  \author	Mohammad Habib Shah Ershad Bin Mohd Azrul Shazril
  \date		2/7/2022
- \brief		EV3 robot read reflective light from light sensor
+ \brief		EV3 robot read reflective light from light sensor and stop when detect black
 */
 
 #include <ev3.h>
